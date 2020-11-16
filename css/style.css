@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    padding: 15px;
+
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.logo{
+    width: 30%;
+    float: left;
+
+}
+
+.menu{
+    width: 70%;
+    float: left;
+
+}
+
+.menu ul{
+    list-style: none;
+    padding: 13px;
+
+}
+.menu ul li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+
+}
+.menu ul li a {
+    font-weight: bold;
+    color:#9f9f9f;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+.banner{
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 100%;
+
+}
+
+.banner-content{
+    text-align: center;
+    padding: 170px 100px;
+   
+}
+.banner-content h2{
+    color: #1f2020d6;
+    padding: 29px;
+    font-size: 50px;
+}
+
+}
+.btn-one{
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    background: #b4e907;
+    padding: 15px 8px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+.text{
+    width: 100%;
+    float: left;
+    padding: 120px 3px;
+}
+.all-text{
+    text-align: center;
+}
+.all-text h2{
+    font-size: 35px;
+    padding: 15px;
+}
+.all-text p{
+    font-size: 20px;
+    padding: 15px;
+
+}
+.all-text h4{
+    font-size: 22px;
+    padding: 10px;
+
+}
+.project{
+    width: 100%;
+    float: left;
+
+}
+.two-div{
+    width: 100%;
+    float: left;
+}
+.div-one{
+    width: 50%;
+    float: left;
+    background-color: #e2f8ff;
+}
+.logo-one{
+    width: 20%;
+    float: left;text-align: center;
+    padding: 40px;
+
+}
+.properties-text{
+    width: 41%;
+    float: left;
+    padding: 50px 50px;
+}
+.properties-text h2{
+
+font-size: 23px;
+}
+.properties-text p{
+    font-size: 17px;
+    padding: 10px 0px;
+
+}
+.btn-two{
+    color: white;
+    background-color: #26a6d1;
+    padding: 10px 10px;
+    border-radius: 11px;
+    outline: none;
+
+}
+
+.div-two{
+    width: 50%;
+    float: left;
+    background-color: #f5f9eb;
+}
+.logo-two{
+    width: 20%;
+    float: left;text-align: center;
+    padding: 40px;
+
+}
+.properties-text{
+    width: 41%;
+    float: left;
+    padding: 50px 50px;
+}
+.properties-text h2{
+
+font-size: 23px;
+}
+.properties-text p{
+    font-size: 17px;
+    padding: 10px 0px;
+
+}
+.btn-three{
+    color: white;
+    background-color: #add136;
+    padding: 10px 10px;
+    border-radius: 11px;
+    outline: none;
+
+}
+.content{
+    width: 100%;
+    float: left;
+}
+.feature-text{
+    width: 70%;
+    float: left;
+
+}
+.feature-text h2{
+    font-size: 30px;
+    padding: 30px;
+
+}
+.feature-text p{
+
+font-size: 17px;
+    letter-spacing: 1px;
+}
+.become-btn{
+    width: 25%;
+    float: left;
+    padding: 26px 24px;
+    color: white;
+
+}
